@@ -1,4 +1,3 @@
-![Relógio em Neumorphism](https://github.com/lucas-andre/lucas-andre.github.io/blob/master/relogio.png?raw=true)
 # ⌚️ Relógio
 
 Desenvolvido em Javascript, HTML e CSS, utilizando *neumorphism* em um design minimalista e agradável, o relógio mostra sem atraso as horas, minutos e segundos do seu horário local, além da data.
@@ -6,7 +5,9 @@ Desenvolvido em Javascript, HTML e CSS, utilizando *neumorphism* em um design mi
 
 ## 😍 Onde visualizar o projeto?
 
-Acesse: https://lucas-andre.github.io/relogio
+Acesse: https://lucas-andre.github.io/relogio  
+
+![Relógio em Neumorphism](https://github.com/lucas-andre/lucas-andre.github.io/blob/master/relogio.png?raw=true)
 
 
 ## 📂 Instalação local 
