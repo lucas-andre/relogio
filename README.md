@@ -14,7 +14,7 @@ Acesse: https://lucas-andre.github.io/relogio
 Baixe os arquivos compactados em .zip diretamente do repositório.
 
 **Por linha de comando.**
-Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/relogio`
+Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/relogio.git`
 
 
 ## 📃 Licença 
